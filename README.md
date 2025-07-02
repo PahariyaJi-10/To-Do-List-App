@@ -12,9 +12,3 @@ Explored Android Studio interface
 
 Created a basic Android app using MainActivity.kt
 
-Task 2 – UI/UX Design & Implementation
- Customize Background and Foreground
-
- Define Colors and Themes
-
- Create Android Layouts (XML)
